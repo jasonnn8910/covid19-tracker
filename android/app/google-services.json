@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542520312895",
+    "project_id": "covid-19-hospital-tracke-466d9",
+    "storage_bucket": "covid-19-hospital-tracke-466d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542520312895:android:fc77e830c68a58d345e48a",
+        "android_client_info": {
+          "package_name": "com.covid19.covid19_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542520312895-vmtpfhj2q4vpppk032gcqcmvh8oopv40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1vfyof7T-RFR3ds9eTX5AjSRtQWgKgR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542520312895-vmtpfhj2q4vpppk032gcqcmvh8oopv40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

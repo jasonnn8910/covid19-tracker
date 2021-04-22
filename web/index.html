@@ -39,7 +39,32 @@
         navigator.serviceWorker.register('flutter_service_worker.js');
       });
     }
+
+
   </script>
+
+  <script src="https://www.gstatic.com/firebasejs/8.4.1/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.4.1/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.4.1/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.4.1/firebase-firestore.js"></script>
+
+  <script>
+      var firebaseConfig = {
+    apiKey: "AIzaSyCtv8x-D_ZvCZ2bjZgWhLK50k-r75Dmbbk",
+    authDomain: "covid-19-hospital-tracke-466d9.firebaseapp.com",
+    projectId: "covid-19-hospital-tracke-466d9",
+    storageBucket: "covid-19-hospital-tracke-466d9.appspot.com",
+    messagingSenderId: "542520312895",
+    appId: "1:542520312895:web:e79c2eec752506b345e48a",
+    measurementId: "G-T55Z9SKKWP"
+      };
+
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+    </script>
+
+  </script>
+
   <script src="main.dart.js" type="application/javascript"></script>
 </body>
 </html>
